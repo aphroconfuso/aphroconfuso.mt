@@ -5,7 +5,11 @@
 	<language>mt</language>
 	<link href="https://aphroconfuso.mt/atom.xml" rel="self"/>
 	<link href="https://aphroconfuso.mt/"/>
+<<<<<<< HEAD
 	<updated>2023-11-19T08:35:17Z</updated>
+=======
+	<updated>2023-11-13T23:27:15Z</updated>
+>>>>>>> 3794fd22 (Avanti!)
 	<id>https://aphroconfuso.mt</id>
 	<author>
 		<name>Aphroconfuso</name>
